@@ -1,4 +1,4 @@
-![long](https://raw.githubusercontent.com/Mrinank-Bhowmick/python-beginner-projects/main/Banner.png)
+![long](https://github.com/7007259Ankur/7007259Ankur/blob/3f8a71b7b908da652924cb0bd58adafbe5596375/ankur.png)
 
 <h1 align="center">Hi 👋, I'm Ankur Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
