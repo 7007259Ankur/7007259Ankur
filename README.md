@@ -1,25 +1,130 @@
-![long](https://github.com/7007259Ankur/7007259Ankur/blob/3f8a71b7b908da652924cb0bd58adafbe5596375/ankur.png)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Ankur Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+![Profile Views](https://komarev.com/ghpvc/?username=Hiomio\&color=blueviolet\&style=for-the-badge)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=7007259ankur&label=Profile%20views&color=0e75b6&style=flat" alt="7007259ankur" /> </p>
+# 👋 Hey there, I'm Kaluri Himabindhu
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7007259ankur" alt="7007259ankur" /></a> </p>
-<img align ="right" alt ="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
-- 🔭 I’m currently working on **Optimaztion Technique**
+### 💻 Full Stack Developer | 🎓 CSE Graduate | 🚀 MERN Stack Enthusiast
 
-- 📫 How to reach me **ankurkumar7753@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](your-linkedin-url)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/Rosie_posie/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://hima-portfolio-eight.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:blessykaluri@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=7007259ankur&show_icons=true&locale=en&layout=compact" alt="7007259ankur" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=7007259ankur&show_icons=true&locale=en" alt="7007259ankur" /></p>
+I’m a **Full Stack Developer** and **2025 CSE graduate from IIIT Bhagalpur**, passionate about building **scalable, production-ready web and mobile applications**.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7007259Ankur&" alt="7007259Ankur" /></p>
+* 💡 Strong foundation in **MERN Stack, Next.js, and React Native**
+* 🧠 Solved **1000+ DSA problems** across LeetCode, CodeChef & GFG
+* ⚡ Enjoy turning complex problems into clean, user-friendly solutions
+* 🚀 Currently exploring **AI-powered applications** and **system scalability**
+
+> *I believe great software is built where clean logic meets thoughtful user experience.*
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### **Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge\&logo=redux\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
+
+### **Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+
+### **Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge\&logo=netlify\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🌟 PrepByAI — *AI Interview Platform*
+
+🔗 [https://prepby-ai.vercel.app/](https://prepby-ai.vercel.app/)
+
+* Real-time AI mock interviews with voice interaction
+* Performance analytics & personalized feedback
+* Built with **Next.js, Gemini AI, Firebase, TailwindCSS**
+
+### 🛒 BuyHive — *E‑Commerce Platform*
+
+🔗 [https://buyhub-pi.vercel.app/](https://buyhub-pi.vercel.app/)
+
+* JWT authentication & Razorpay payments
+* Admin dashboard & order management
+* MERN stack based full‑stack system
+
+### 📝 BlogSphere — *Blogging Platform*
+
+🔗 [https://blog-chi-three-26.vercel.app/](https://blog-chi-three-26.vercel.app/)
+
+* Rich text editor & Firebase auth
+* Redux-powered state management
+
+### 🎬 FilmGalaxy — *Movie Discovery App*
+
+🔗 [https://filmgalaxy.onrender.com/](https://filmgalaxy.onrender.com/)
+
+* TMDB API integration
+* Reviews, ratings & recommendations
+
+### 📱 Real Estate App — *React Native*
+
+* Property listings with maps & favorites
+* Cross‑platform mobile experience
+
+---
+
+
+## 📊 GitHub & DSA Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hiomio&theme=radical" alt="Profile Details" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hiomio&theme=radical" alt="Top Languages" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hiomio&theme=radical" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hiomio&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Rosie_posie?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/Rosie_posie/)
+
+</div>
+
+---
+
+## 📬 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](your-linkedin-url)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://hima-portfolio-eight.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:your-email)
+
+---
+
+<div align="center">
+
+✨ *"I don’t just code — I build experiences that scale."* 🚀
+
+</div>
