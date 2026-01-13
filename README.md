@@ -109,7 +109,7 @@ I’m a **Full Stack Developer** and **2026 CSE graduate from IIIT Guwahati**, p
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hiomio&theme=radical&hide_border=true" alt="GitHub Streak" />
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Rosie_posie?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/u/AnkurGuptaCS/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/AnkurGuptaCS?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/u/AnkurGuptaCS/)
 
 </div>
 
