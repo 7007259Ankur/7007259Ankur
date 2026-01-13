@@ -59,42 +59,38 @@ I’m a **Full Stack Developer** and **2026 CSE graduate from IIIT Guwahati**, p
 
 ## 🚀 Featured Projects
 
-### 🌟 PrepByAI — *AI Interview Platform*
+### 🏥 MediVerse — *Future of Digital Healthcare*
 
-🔗 [https://prepby-ai.vercel.app/](https://prepby-ai.vercel.app/)
+🔗 [View Repository](https://github.com/7007259Ankur/Mediverse)
 
-* Real-time AI mock interviews with voice interaction
-* Performance analytics & personalized feedback
-* Built with **Next.js, Gemini AI, Firebase, TailwindCSS**
+* **Telemedicine Platform** with WebRTC video consultations and role-based access.
+* Features **ElevenLabs Voice Assistant** and AI-based health predictions.
+* Built with **MERN Stack (MongoDB, Express, React, Node.js), Socket.io, and Python**.
 
-### 🛒 BuyHive — *E‑Commerce Platform*
+### ⚡ EV Station Optimizer — *Hybrid AI Algorithms*
 
-🔗 [https://buyhub-pi.vercel.app/](https://buyhub-pi.vercel.app/)
+🔗 [View Repository](https://github.com/7007259Ankur/EV-Charging-Station-Location-Optimization-using-Hybrid-Gray-Wolf-and-Genetic-Algorithms)
 
-* JWT authentication & Razorpay payments
-* Admin dashboard & order management
-* MERN stack based full‑stack system
+* Optimizes EV charging station locations using **Gray Wolf Optimizer & Genetic Algorithms**.
+* Generates interactive **Heatmaps** for existing, potential, and optimal locations.
+* Built with **Python, Flask, PostgreSQL, and Google Maps API**.
 
-### 📝 BlogSphere — *Blogging Platform*
+### 📊 Resilient Live Polling System
 
-🔗 [https://blog-chi-three-26.vercel.app/](https://blog-chi-three-26.vercel.app/)
+🔗 [View Repository](https://github.com/7007259Ankur/poll-system-frontend)
+🔗 [Live Demo](https://fluffy-dieffenbachia-0ec496.netlify.app/)
 
-* Rich text editor & Firebase auth
-* Redux-powered state management
+* Real-time polling app with **resilient state recovery** (handling browser refreshes).
+* Server-side synchronized timers to ensure fairness for late joiners.
+* Built with **React, TypeScript, Node.js, Socket.io, and MongoDB**.
 
-### 🎬 FilmGalaxy — *Movie Discovery App*
+### 🐄 Automated Livestock ML System
 
-🔗 [https://filmgalaxy.onrender.com/](https://filmgalaxy.onrender.com/)
+🔗 [View Repository](https://github.com/7007259Ankur/-Automated-Livestock-Behaviour-Classification-and-Anomaly-Detection-Using-Hybrid-Machine-Learning)
 
-* TMDB API integration
-* Reviews, ratings & recommendations
-
-### 📱 Real Estate App — *React Native*
-
-* Property listings with maps & favorites
-* Cross‑platform mobile experience
-
----
+* Hybrid ML system for cattle behavior classification and anomaly detection.
+* Achieved **99.98% accuracy** using **LightGBM** and **LSTM Autoencoders**.
+* Analyzes 50Hz tri-axial accelerometer data for early health issue detection.
 
 
 ## 📊 GitHub & DSA Stats
