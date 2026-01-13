@@ -62,6 +62,7 @@ I’m a **Full Stack Developer** and **2026 CSE graduate from IIIT Guwahati**, p
 ### 🏥 MediVerse — *Future of Digital Healthcare*
 
 🔗 [View Repository](https://github.com/7007259Ankur/Mediverse)
+🔗 [Live Demo](https://medixpert.netlify.app/)
 
 * **Telemedicine Platform** with WebRTC video consultations and role-based access.
 * Features **ElevenLabs Voice Assistant** and AI-based health predictions.
