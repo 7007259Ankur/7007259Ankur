@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Hiomio\&color=blueviolet\&style=for-the-badge)
 
-# 👋 Hey there, I'm Kaluri Himabindhu
+# 👋 Hey there, I'm Ankur Gupta
 
 ### 💻 Full Stack Developer | 🎓 CSE Graduate | 🚀 MERN Stack Enthusiast
 
@@ -17,10 +17,10 @@
 
 ## 👨‍💻 About Me
 
-I’m a **Full Stack Developer** and **2025 CSE graduate from IIIT Bhagalpur**, passionate about building **scalable, production-ready web and mobile applications**.
+I’m a **Full Stack Developer** and **2026 CSE graduate from IIIT Guwahati**, passionate about building **scalable, production-ready web and mobile applications**.
 
 * 💡 Strong foundation in **MERN Stack, Next.js, and React Native**
-* 🧠 Solved **1000+ DSA problems** across LeetCode, CodeChef & GFG
+* 🧠 Solved **1200+ DSA problems** across LeetCode, CodeChef & GFG
 * ⚡ Enjoy turning complex problems into clean, user-friendly solutions
 * 🚀 Currently exploring **AI-powered applications** and **system scalability**
 
@@ -109,7 +109,7 @@ I’m a **Full Stack Developer** and **2025 CSE graduate from IIIT Bhagalpur**, 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hiomio&theme=radical&hide_border=true" alt="GitHub Streak" />
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Rosie_posie?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/Rosie_posie/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Rosie_posie?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/u/AnkurGuptaCS/)
 
 </div>
 
