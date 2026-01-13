@@ -101,13 +101,13 @@ I’m a **Full Stack Developer** and **2026 CSE graduate from IIIT Guwahati**, p
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hiomio&theme=radical" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=7007259Ankur&theme=radical" alt="Profile Details" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hiomio&theme=radical" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=7007259Ankur&theme=radical" alt="Top Languages" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hiomio&theme=radical" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=7007259Ankur&theme=radical" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hiomio&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=7007259Ankur&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/AnkurGuptaCS?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/u/AnkurGuptaCS/)
 
