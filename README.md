@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a **Full Stack Developer** and **2026 CSE graduate from IIIT Guwahati**, passionate about building **scalable, production-ready web and mobile applications**.
+I’m a Full Stack Developer and 2026 CSE graduate from IIIT Guwahati, passionate about building scalable, production-ready web and mobile applications. I’m currently a Working Software Intern at KlimaShift and an ex-intern at Soraminds, where I work on data orchestration using Prefect, backend refactoring, and frontend development with Vue.js/Nuxt.js.
 
 * 💡 Strong foundation in **MERN Stack, Next.js, and React Native**
 * 🧠 Solved **1200+ DSA problems** across LeetCode, CodeChef & GFG
