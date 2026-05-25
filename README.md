@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+scalable+web+%26+mobile+applications+%F0%9F%9A%80;1200%2B+DSA+problems+solved+%F0%9F%A7%A0;MERN+%7C+Next.js+%7C+React+Native+%7C+TypeScript;Ex-+%40+KlimaShift+%E2%80%A2+ex+%40+Soraminds)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+scalable+web+%26+mobile+applications+%F0%9F%9A%80;1200%2B+DSA+problems+solved+%F0%9F%A7%A0;MERN+%7C+Next.js+%7C+React+Native+%7C+TypeScript;Intern+%40+Kenome+%E2%80%A2+ex+%40+Soraminds)](https://git.io/typing-svg)
 
 <br/>
 
